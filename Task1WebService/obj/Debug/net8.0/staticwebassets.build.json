@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "C+xFCKcsF1giMl7S8vFP1RqCcTAqscBgbcgP7OkytmA=",
+  "Source": "Task1WebService",
+  "BasePath": "_content/Task1WebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
