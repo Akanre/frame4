@@ -45,6 +45,22 @@ Item:
    - `https://localhost:xxxx/swagger` (если включен Swagger)
    - или использовать Postman / curl
 
+## Примеры запросов
+
+1. Получить список элементов
+
+curl http://localhost:5284/api/items
+
+2. Получить элемент по id
+
+curl http://localhost:5284/api/items/1
+
+3. Создать ноый элемент
+
+curl -X POST http://localhost:5284/api/items ^
+-H "Content-Type: application/json" ^
+-d "{\"name\":\"Book\", \"price\":100}"
+
 ## Пример работоспособности 
 
 <img width="873" height="893" alt="Снимок экрана 2026-04-15 142826" src="https://github.com/user-attachments/assets/22a0efc1-443c-469a-b92d-ac8d76f5ee88" />
