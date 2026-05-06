@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+FvIzrSrU38=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Akanre\\source\\repos\\Task2WebService\\Task2WebService\\Task2WebService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akanre\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\Akanre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
